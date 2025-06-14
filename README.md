@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Soni Gupta</h1>
-<h3 align="center">🎓 Student at KMCLU University, Lucknow | 💻 Aspiring Web Developer</h3>
+<h3 align="center">🎓 Student at KMCL University, Lucknow | 💻 Aspiring Web Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Developer-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-- 🎓 I'm currently pursuing graduation from **KMCLU University, Lucknow**
+- 🎓 I'm currently pursuing graduation from **KMCLU , Lucknow**
 - 🌱 I’m currently learning **React, APIs, and Web3 Development**
 - 💬 Ask me about **JavaScript, HTML/CSS, React, GitHub**
 - 📫 Reach me at: [starsindo3761@gmail.com](mailto:starsindo3761@gmail.com)
