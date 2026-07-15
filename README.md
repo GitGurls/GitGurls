@@ -20,7 +20,6 @@
 - 🎓 3rd-year B.Tech CSE student at **KMCLU, Lucknow** (CGPA: 9.08)
 - 💻 Frontend Developer at **OpennMind**
 - 🚀 Technical Lead at **Zero's Arena** — scaled the platform to 1,300+ users and 50+ teams
-- 🛠️ Currently building **DevBoard** — a production-grade project management tool (Linear/Jira-style) with real-time collaboration, JWT auth, and full test coverage
 - 🌱 Deepening my knowledge of **system design** — scaling, caching, message queues, WebSockets at scale
 - 📫 Reach me at **starsindo3761@gmail.com**
 
