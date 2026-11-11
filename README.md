@@ -1,114 +1,165 @@
-<h1 align="center">Hi, I'm Soni Gupta 👋</h1>
-<h3 align="center">Full Stack Developer | Frontend-focused | Building production-grade web apps</h3>
+ 
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/soni-gupta-54b075329/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:starsindo3761@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/GitGurls" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+# Hi, I'm Soni Gupta 👋
+
+### Full Stack Developer | Frontend-Focused Engineer
+
+Building scalable web applications, intuitive interfaces, and real-world products.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/soni-gupta-54b075329/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:starsindo3761@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/GitGurls">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=GitGurls&style=flat-square&color=blueviolet" alt="Profile Views" />
+
+</div>
 
 ---
 
-### About Me
+## 👩‍💻 About Me
 
-- 🎓 3rd-year B.Tech CSE student at **KMCLU, Lucknow** (CGPA: 9.08)
+I'm a 3rd-year Computer Science Engineering student at **KMCLU, Lucknow**, passionate about building products that solve real-world problems.
+
+- 🎓 B.Tech CSE | CGPA: **9.08/10**
 - 💻 Frontend Developer at **OpennMind**
-- 🚀 Technical Lead at **Zero's Arena** — scaled the platform to 1,300+ users and 50+ teams
-- 🌱 Deepening my knowledge of **system design** — scaling, caching, message queues, WebSockets at scale
-- 📫 Reach me at **starsindo3761@gmail.com**
+- 🚀 Technical Lead at **Zero's Arena**
+- 📈 Helped scale a platform to **1,300+ users and 50+ teams**
+- ⚡ Experienced in building full-stack applications with React, Node.js, and modern web technologies.
+- 🌱 Currently exploring **System Design, Scalable Architectures, Redis, Caching, Message Queues, and WebSockets**.
+
+I enjoy understanding how systems work behind the scenes, solving engineering problems, and turning ideas into working products.
 
 ---
 
-### 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages & Core**
+### Languages
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" />
 </p>
 
-**Frontend**
+### Frontend Development
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36" alt="Redux"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux" />
 </p>
 
-**Backend & Database**
+### Backend Development & Databases
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="Express"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,prisma" />
 </p>
 
-**Tools & Infra**
+### Tools & Infrastructure
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36" height="36" alt="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36" height="36" alt="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-**[DevBoard](https://github.com/GitGurls)** — Production-grade project management tool (Linear/Jira-style)
-`React` `Vite` `TypeScript` `Node.js` `Express` `PostgreSQL` `WebSockets` `JWT`
-Real-time collaboration, rotating refresh tokens, S3-compatible file uploads, Sentry monitoring, 42-test suite.
+### 1. DevBoard — Real-Time Project Management Platform
 
-**Multiplayer 2D Metaverse (Gather Town clone)**
-`Turborepo` `Redis Pub/Sub` `WebSockets` `Neon Postgres` `Prisma`
-Fixed real production bugs — Redis subscription leaks, race conditions in move handling, redundant DB queries. 18-test Vitest suite.
+A production-oriented project management application inspired by Linear and Jira.
 
-**Zerodha-style Stock Trading Exchange**
-`Node.js` `TypeScript`
-Built an OrderBook engine supporting limit and market order matching.
+**Tech:** React · TypeScript · Node.js · Express · PostgreSQL · WebSockets · JWT
 
-**Chess.com Multiplayer Clone**
-`Turborepo` `WebSockets`
-Real-time multiplayer chess with live game state sync.
+- Real-time collaboration and updates.
+- Secure authentication with rotating refresh tokens.
+- S3-compatible file uploads.
+- Error monitoring with Sentry.
+- 42-test automated test suite.
 
-**Binance Futures Testnet Trading Bot**
-`Python` `CLI`
-Automated trading bot built against the Binance Futures Testnet API.
+### 2. Multiplayer 2D Metaverse
+
+A real-time multiplayer virtual world inspired by Gather Town.
+
+**Tech:** Turborepo · Redis Pub/Sub · WebSockets · Neon PostgreSQL · Prisma
+
+- Real-time player movement and synchronization.
+- Fixed Redis subscription leaks and race conditions.
+- Optimized redundant database queries.
+- 18-test Vitest suite.
+
+### 3. Zerodha-Style Stock Trading Exchange
+
+A backend-focused trading engine implementing core exchange mechanics.
+
+**Tech:** Node.js · TypeScript
+
+- Implemented an OrderBook engine.
+- Supports limit and market order matching.
+
+### 4. Chess.com Multiplayer Clone
+
+A real-time multiplayer chess application.
+
+**Tech:** Turborepo · WebSockets
+
+- Live multiplayer game state synchronization.
+- Real-time communication between players.
+
+### 5. Binance Futures Testnet Trading Bot
+
+An automated trading bot built using the Binance Futures Testnet API.
+
+**Tech:** Python · REST API · CLI
+
+- Automated interaction with the testnet trading API.
+- Programmatic trading operations.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitGurls&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitGurls&layout=compact&theme=radical&hide_border=true" width="45%" />
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitGurls&theme=radical&hide_border=true" width="70%" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GitGurls&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitGurls&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GitGurls&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-### 🤝 Let's Connect
+## 🐍 Contribution Activity
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/soni-gupta-54b075329/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:starsindo3761@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GitGurls/GitGurls/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on interesting projects, discussing engineering ideas, and connecting with developers.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/soni-gupta-54b075329/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:starsindo3761@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop_a_Message-D14836?style=for-the-badge&logo=gmail" />
+</a>
+
+<br/><br/>
+
+**Building. Learning. Shipping. Improving. 🚀**
+
+</div>
